@@ -1,0 +1,28 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url(PRNumber3.ttf);
+}
+
+h4 {
+    font-family: "CustomFont";
+    text-align: center;
+    color: #33FF33;
+}
+
+body {
+    background-color: #282828;
+}
+
+p {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: #33FF33;
+}
+
+html {
+    background-color: #282828;
+}
+
+nav {
+    background-color: #282828;
+}

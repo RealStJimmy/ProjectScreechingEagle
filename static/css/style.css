@@ -1,0 +1,29 @@
+@font-face {
+    font-family: "CustomFont";
+    src: url(PRNumber3.ttf);
+}
+
+h1 {
+    font-family: "CustomFont";
+    text-align: center;
+    color: #33FF33;
+}
+
+body {
+    background-color: #282828;
+}
+
+p {
+    font-family: "CustomFont";
+    text-align: center;
+    color: #33FF33;
+    font-size: 20px;
+}
+
+html {
+    background-color: #282828;
+}
+
+nav {
+    background-color: #282828;
+}
